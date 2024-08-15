@@ -1,0 +1,7 @@
+echo "# attestation_python" >> README.md
+git init
+git add README.md
+git commit -m "первая фиксация"
+git branch -M main
+git remote add origin https://github.com/Arthouse-y/attestation_python.git
+git push -u origin главная
